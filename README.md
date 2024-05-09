@@ -32,5 +32,6 @@ PyAutoGUI is utilized for simulating mouse and keyboard inputs.
 SpeechRecognition library is used for voice command recognition.
 License
 This project is licensed under the MIT License.
-"C:\Users\kaniy\Downloads\capture_240508_211208.png"
+["C:\Users\kaniy\Downloads\capture_240508_211208.png"
 (https://github.com/kaniyamudhan/Dynamic-fusion-Redefining-user-interaction-through-multimodal-integration/blob/main/capture_240508_112700.png)
+](https://github.com/kaniyamudhan/Dynamic-fusion-Redefining-user-interaction-through-multimodal-integration/blob/b381587c0a1cdafefa3250b73be9702f5fb41cbd/capture_240508_112700.png)
